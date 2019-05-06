@@ -20,6 +20,7 @@ You will see the results in CSV as well as on the terminal.
 
 
 Thanks !!!
+master repo is made by alankar(https://github.com/Alankar0416/Justdial-Scrapper)
 
 Happy coding..
 
